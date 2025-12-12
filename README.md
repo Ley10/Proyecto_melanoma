@@ -33,7 +33,7 @@ Este proyecto se compone de dos entregables clave: el código y el conjunto de d
 
 | Recurso | Descripción | Enlace/Nombre |
 | :--- | :--- | :--- |
-| **Código Fuente** | Libreta de Google Colab (`Proyecto_Melanoma.ipynb`) con todo el proceso de carga, preprocesamiento, entrenamiento y evaluación. | [Aquí se genera el enlace de GitHub] |
+| **Código Fuente** | Libreta de Google Colab (`Proyecto_Melanoma.ipynb`) con todo el proceso de carga, preprocesamiento, entrenamiento y evaluación. | [[Aquí se genera el enlace de GitHub](https://github.com/Ley10/Proyecto_melanoma)] |
 | **Conjunto de Datos** | Imágenes preprocesadas, aumentadas y listas para el entrenamiento (divididas en `entrenamiento`, `validación` y `prueba`). | [Conjunto de datos preprocesados de melanoma vs. sin melanoma](https://www.kaggle.com/datasets/leydygalindovertel/melanoma-vs-no-melanoma-preprocessed-dataset) |
 
 
