@@ -33,10 +33,6 @@ Este proyecto se compone de dos entregables clave: el código y el conjunto de d
 
 | Recurso | Descripción | Enlace/Nombre |
 | :--- | :--- | :--- |
-| **Código Fuente** | Libreta de Google Colab (`Proyecto_Melanoma.ipynb`) con todo el proceso de carga, preprocesamiento, entrenamiento y evaluación. | [[Aquí se genera el enlace de GitHub](https://github.com/Ley10/Proyecto_melanoma)] |
+| **Código Fuente** | Libreta de Google Colab (`Proyecto_Melanoma.ipynb`) con todo el proceso de carga, preprocesamiento, entrenamiento y evaluación. | [[Proyecto_melanoma](https://github.com/Ley10/Proyecto_melanoma)] |
 | **Conjunto de Datos** | Imágenes preprocesadas, aumentadas y listas para el entrenamiento (divididas en `entrenamiento`, `validación` y `prueba`). | [Conjunto de datos preprocesados de melanoma vs. sin melanoma](https://www.kaggle.com/datasets/leydygalindovertel/melanoma-vs-no-melanoma-preprocessed-dataset) |
 
-
-1.  **Abrir en Colab:** Haga clic en el botón "Open in Colab" (si se incluyó al subirlo).
-2.  **Cargar Datos:** El *notebook* asume que el conjunto de datos de Kaggle está montado en el entorno de ejecución.
-3.  **Ejecutar celdas:** Ejecute las celdas de manera secuencial para replicar el preprocesamiento, el entrenamiento (el cual se detendrá en la Época 3) y la evaluación de las métricas.
